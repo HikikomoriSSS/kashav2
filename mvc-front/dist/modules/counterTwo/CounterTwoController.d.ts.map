@@ -1,0 +1,1 @@
+{"version":3,"file":"CounterTwoController.d.ts","sourceRoot":"","sources":["../../../src/modules/counterTwo/CounterTwoController.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,wBAAwB,CAAC;AAEzD,OAAO,EAAE,eAAe,EAAC,MAAM,mBAAmB,CAAA;AAElD,qBAAa,oBAAqB,YAAW,UAAU;IACpD,KAAK,EAAE,eAAe,CAAC;;IAMvB,eAAe;IAKf,eAAe;IAKf,cAAc;CAIhB"}
